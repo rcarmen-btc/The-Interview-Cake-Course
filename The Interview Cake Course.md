@@ -6,7 +6,7 @@ One exception: if you're already pretty solid on data structures and algorithms,
 ## 0. Algorithmic thinking
 ---
 ### Readings
-### [[Big O Notation]]
+### [[BigONotation]]
 ### [Big O Notation](0.\ Algorithmic\ thinking/Big\ O\ Nontation.md)
 Learn how to compare the efficiency of different approaches to a problem.
 
