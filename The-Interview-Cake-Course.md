@@ -6,10 +6,9 @@ One exception: if you're already pretty solid on data structures and algorithms,
 ## 0. Algorithmic thinking
 ---
 ### Readings
-### [[BigONotation]]
-### [Big O Notation](0.\ Algorithmic\ thinking/Big\ O\ Nontation.md)
+### [[Big-O-Notation]]
 
-### [[Data Structures]]
+### [[Data-Structures]]
 Build the main data structures from the ground up. Learn when to use an array vs. a linked list vs.…
     
 ### [[Logarithms]]

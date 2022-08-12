@@ -1,4 +1,4 @@
-<<<[[BigONotation]] | [[Logarithms]]>>>
+<<<[[Big-O-Notation]] | [[Logarithms]]>>>
 --|--
 # Data Structures for Coding Interviews
 
@@ -9,15 +9,15 @@ To really understand how data structures _work_, we're going to derive each of 
 Don't worry—we'll skip the convoluted academic jargon and proofs.
 
 We'll cover:
--   [[Data Structures#Random Access Memory RAM|Random Access Memory]]
--   [[Data Structures#Binary numbers|Binary Numbers]]
--   [[Data Structures#Fixed-width integers |Fixed-Width Integers]]
--   [[Data Structures#Arrays|Arrays]]
--   [[Data Structures#Strings|Strings]]
--   [[Data Structures#Pointers|Pointers]]
--   [[Data Structures#Dynamic arrays|Dynamic arrays]]
--   [[Data Structures#Linked lists|Linked lists]]
--   [[Data Structures#Hash tables|Hash tables]]
+-   [[Data-Structures#Random Access Memory RAM|Random Access Memory]]
+-   [[Data-Structures#Binary numbers|Binary Numbers]]
+-   [[Data-Structures#Fixed-width integers |Fixed-Width Integers]]
+-   [[Data-Structures#Arrays|Arrays]]
+-   [[Data-Structures#Strings|Strings]]
+-   [[Data-Structures#Pointers|Pointers]]
+-   [[Data-Structures#Dynamic arrays|Dynamic arrays]]
+-   [[Data-Structures#Linked lists|Linked lists]]
+-   [[Data-Structures#Hash tables|Hash tables]]
 
 ## Random Access Memory (RAM)
 ---
@@ -660,5 +660,5 @@ So you have to know _what's important_ in the problem you're working on. What 
 
 Once you know what's important, you can pick the data structure that does it best.
 
-<<<[[BigONotation]] | [[Logarithms]]>>>
+<<<[[Big-O-Notation]] | [[Logarithms]]>>>
 --|--
