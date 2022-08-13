@@ -1,4 +1,4 @@
-<<<[[Big-O-Notation.md]] | [[Logarithms.md]]>>>
+<<<[Big-O-Notation](Big-O-Notation.md) | [Logarithms](Logarithms.md)>>>
 --|--
 # Data Structures for Coding Interviews
 
@@ -9,15 +9,15 @@ To really understand how data structures _work_, we're going to derive each of 
 Don't worry—we'll skip the convoluted academic jargon and proofs.
 
 We'll cover:
--   [[Data-Structures#Random Access Memory RAM|Random Access Memory]]
--   [[Data-Structures#Binary numbers|Binary Numbers]]
--   [[Data-Structures#Fixed-width integers |Fixed-Width Integers]]
--   [[Data-Structures#Arrays|Arrays]]
--   [[Data-Structures#Strings|Strings]]
--   [[Data-Structures#Pointers|Pointers]]
--   [[Data-Structures#Dynamic arrays|Dynamic arrays]]
--   [[Data-Structures#Linked lists|Linked lists]]
--   [[Data-Structures#Hash tables|Hash tables]]
+-   [Random Access Memory](Data-Structures#Random%20Access%20Memory%20RAM)
+-   [Binary Numbers](Data-Structures#Binary%20numbers)
+-   [Fixed-Width Integers](Data-Structures#Fixed-width%20integers)
+-   [Arrays](Data-Structures#Arrays)
+-   [Strings](Data-Structures#Strings)
+-   [Pointers](Data-Structures#Pointers)
+-   [Dynamic arrays](Data-Structures#Dynamic%20arrays)
+-   [Linked lists](Data-Structures#Linked%20lists)
+-   [Hash tables](Data-Structures#Hash%20tables)
 
 ## Random Access Memory (RAM)
 ---
@@ -288,7 +288,7 @@ We already know one way to store a _series of things_—arrays. But how can an 
 Easy. Let's define a mapping between numbers and characters. Let's say "A" is 1 (or 0000 0001 in binary), "B" is 2 (or 0000 0010 in binary), etc. Bam. Now we have characters.
 
 This mapping of numbers to characters is called a **character encoding**. One common character encoding is "ASCII". Here's how the alphabet is encoded in ASCII:
-![[Pasted image 20220812123418.png]]
+![](Pasted%20image%2020220812123418.png)
 You get the idea. So since we can express characters as 8-bit integers, we can express _strings_ as _arrays_ of 8-bit numbers characters.
 
 ![Three illustrations of the string "NICE": one in binary, one in base 10, and one in ASCII.](https://www.interviewcake.com/images/svgs/cs_for_hackers__strings_nice_array.svg?bust=210)
@@ -660,5 +660,5 @@ So you have to know _what's important_ in the problem you're working on. What 
 
 Once you know what's important, you can pick the data structure that does it best.
 
-<<<[[Big-O-Notation.md]] | [[Logarithms.md]]>>>
+<<<[Big-O-Notation](Big-O-Notation.md) | [Logarithms](Logarithms.md)>>>
 --|--
