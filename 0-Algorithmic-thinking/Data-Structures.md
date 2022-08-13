@@ -1,4 +1,4 @@
-<<<[[Big-O-Notation]] | [[Logarithms]]>>>
+<<<[[Big-O-Notation.md]] | [[Logarithms.md]]>>>
 --|--
 # Data Structures for Coding Interviews
 
@@ -660,5 +660,5 @@ So you have to know _what's important_ in the problem you're working on. What 
 
 Once you know what's important, you can pick the data structure that does it best.
 
-<<<[[Big-O-Notation]] | [[Logarithms]]>>>
+<<<[[Big-O-Notation.md]] | [[Logarithms.md]]>>>
 --|--

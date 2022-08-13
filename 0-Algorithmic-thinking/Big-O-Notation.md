@@ -1,4 +1,4 @@
-<<<[[The-Interview-Cake-Course]] |[[Data-Structures]]>>>
+<<<[[../The-Interview-Cake-Course.md]] |[[Data-Structures.md]]>>>
 --|--
 # Big O Notation
 ## Using not-boring math to measure code's efficiency
@@ -140,5 +140,5 @@ But that doesn't mean startups don't care about big O analysis. A great engineer
 
 **You should develop the _skill_ to see time and space optimizations, as well as the _wisdom_ to judge if those optimizations are worthwhile.**
 
-<<<[[The-Interview-Cake-Course]] |[[Data-Structures]]>>>
+<<<[[../The-Interview-Cake-Course.md]] |[[Data-Structures.md]]>>>
 --|--
