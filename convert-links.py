@@ -2,9 +2,10 @@ from pathlib import Path
 
 
 def file(p: Path):
-    with open(str(p.absolute()), 'r+') as file:
-        src = file.read()
-        src.replace('[[')
+    print(p)
+    # with open(str(p.absolute()), 'r+') as file:
+    #     src = file.read()
+        # src.replace('[[')
 
 
 def dir(p: Path):
