@@ -4,7 +4,6 @@ Where to start? At the beginning! We've carefully ordered our course to cover th
 One exception: if you're already pretty solid on data structures and algorithms, you can probably skip section 0.
 
 ## 0. Algorithmic thinking
----
 ### Readings
 ### [0-Algorithmic-thinking/Big-O-Notation.md](0-Algorithmic-thinking/Big-O-Notation.md)
 
